@@ -1,0 +1,23 @@
+body{
+	
+	margin: 10px;
+}
+
+.avatar{
+	width: 180px;
+	height: 180px;
+}
+
+.card{
+	justify-content: space-around;
+	border: 1px solid burlywood;
+	padding: 20px;
+	display: flex;
+	width: 450px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.details{
+	margin-left: 5px;
+}
