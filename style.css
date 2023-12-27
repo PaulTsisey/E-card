@@ -1,5 +1,4 @@
 body{
-	
 	margin: 10px;
 }
 
@@ -11,11 +10,12 @@ body{
 .card{
 	justify-content: space-around;
 	border: 1px solid burlywood;
-	padding: 20px;
+	padding: 15px;
 	display: flex;
 	width: 450px;
 	margin-left: auto;
 	margin-right: auto;
+	
 }
 
 .details{
